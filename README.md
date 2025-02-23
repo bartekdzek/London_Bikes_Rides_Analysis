@@ -37,8 +37,6 @@ Below is a preview of the Tableau visualization:
 ## 🛠️ Technologies Used  
 - **Python:**  
   - `pandas` – Data cleaning and preprocessing  
-  - `matplotlib` & `seaborn` – Data visualization  
-  - `numpy` – Numerical operations  
 - **Tableau:**  
   - Built interactive dashboards for exploring trends and patterns dynamically  
 - **Excel:**  
