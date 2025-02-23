@@ -25,7 +25,7 @@ This project focuses on analyzing and visualizing bike ride data in London. The 
 ### 🖼️ Screenshot of the Tableau Dashboard  
 Below is a preview of the Tableau visualization:  
 
-![Tableau Dashboard Preview](tableau dashbord screenshot.png)  
+![Tableau Dashboard Preview](tableau-dashbord-screenshot.png)  
 
 ## 🔍 Key Insights and Features  
 - **Data Cleaning & Transformation:** Handled missing values and formatted the dataset for analysis.  
