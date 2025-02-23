@@ -1,7 +1,7 @@
 # London Bike Rides - Analysis and Visualization  
 
 ## 📌 Project Overview  
-This project focuses on analyzing and visualizing bike ride data in London. The dataset, obtained from Kaggle, contains information about bike usage, including timestamps, weather conditions, and traffic data. The goal is to extract meaningful insights by performing data preprocessing, exploratory data analysis (EDA), and advanced visualizations using Python and Tableau.  
+This project focuses on analyzing and visualizing bike ride data in London. The dataset, obtained from Kaggle, contains information about bike usage, including timestamps, weather conditions, and traffic data. The goal is to extract meaningful insights by performing data preprocessing and advanced visualizations using Python and Tableau.  
 
 ## 📂 Files in the Repository  
 ### 🔹 Datasets:  
@@ -11,8 +11,6 @@ This project focuses on analyzing and visualizing bike ride data in London. The 
 ### 🔹 Code & Analysis:  
 - **`london_bikes.ipynb`** – A Jupyter Notebook that performs:  
   - Data cleaning and preprocessing  
-  - Exploratory data analysis (EDA)  
-  - Visualization of trends in bike rides  
   - Implementation of moving averages for trend analysis  
 
 ### 🔹 Visualizations & Dashboard:  
