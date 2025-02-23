@@ -10,7 +10,8 @@ This project focuses on analyzing and visualizing bike ride data in London. The 
 
 ### 🔹 Code & Analysis:  
 - **`london_bikes.ipynb`** – A Jupyter Notebook that performs:  
-  - Data cleaning and preprocessing  
+  - Data cleaning and preprocessing
+  - Looking at the data
   - Implementation of moving averages for trend analysis  
 
 ### 🔹 Visualizations & Dashboard:  
