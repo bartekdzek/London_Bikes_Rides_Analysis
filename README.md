@@ -20,7 +20,12 @@ This project focuses on analyzing and visualizing bike ride data in London. The 
   - 📈 **Moving Average Analysis:** A time-series visualization that smooths out short-term fluctuations in bike rides, making long-term trends more visible.  
   - 🌡️ **Heatmap of Bike Usage:** A color-coded heatmap that displays the intensity of bike rides over time, helping to identify peak usage hours and seasonal trends.  
   - 🌦️ **Weather Impact on Bike Usage:** A correlation analysis between weather conditions (temperature, humidity, wind speed) and bike ride frequency.  
-  - 📊 **Seasonal Trends Dashboard:** An interactive breakdown of bike usage across different months and seasons, providing insights into user behavior throughout the year.  
+  - 📊 **Seasonal Trends Dashboard:** An interactive breakdown of bike usage across different months and seasons, providing insights into user behavior throughout the year.
+
+### 🖼️ Screenshot of the Tableau Dashboard  
+Below is a preview of the Tableau visualization:  
+
+![Tableau Dashboard Preview](tableau dashbord screenshot.png)  
 
 ## 🔍 Key Insights and Features  
 - **Data Cleaning & Transformation:** Handled missing values and formatted the dataset for analysis.  
